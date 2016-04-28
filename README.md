@@ -1,4 +1,4 @@
-# FormatConversion
+# Format Conversion
 Just some scripts to convert between some common sequence formats.
 
 * **`fas2phy.py`:** convert from .fasta to .phylip
